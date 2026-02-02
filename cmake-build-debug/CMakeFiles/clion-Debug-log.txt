@@ -1,0 +1,1 @@
+CMakeLists.txt not found in C:\Users\kater\Рабочий стол\Programming in C Select CMakeLists.txt
