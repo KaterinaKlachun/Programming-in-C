@@ -1,0 +1,2 @@
+File for writing the text by C tools
+Sum=450
