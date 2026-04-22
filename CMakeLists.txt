@@ -19,3 +19,9 @@ add_executable(lab4
 )
 
 target_link_libraries(lab4 m)
+
+# Лаба 5
+add_executable(lab5
+        "Лабораторные работы/lab5/main.c"
+        "Лабораторные работы/lab5/matrix.c"
+)
