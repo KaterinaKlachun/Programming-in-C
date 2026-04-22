@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Users/kater/Рабочий стол/Programming in C/cmake-build-debug",
+  "command": "\"C:\\PROGRA~1\\JetBrains\\CLion 2025.3.3\\bin\\mingw\\bin\\gcc.exe\" -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\lab1.dir\\Лабораторные_работы\\lab1.c.obj -c \"C:\\Users\\kater\\Рабочий стол\\Programming in C\\Лабораторные работы\\lab1.c\"",
+  "file": "C:/Users/kater/Рабочий стол/Programming in C/Лабораторные работы/lab1.c",
+  "output": "C:/Users/kater/Рабочий стол/Programming in C/cmake-build-debug/CMakeFiles/lab1.dir/Лабораторные_работы/lab1.c.obj"
+},
+{
+  "directory": "C:/Users/kater/Рабочий стол/Programming in C/cmake-build-debug",
+  "command": "\"C:\\PROGRA~1\\JetBrains\\CLion 2025.3.3\\bin\\mingw\\bin\\gcc.exe\" -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\lab2.dir\\Лабораторные_работы\\lab2.c.obj -c \"C:\\Users\\kater\\Рабочий стол\\Programming in C\\Лабораторные работы\\lab2.c\"",
+  "file": "C:/Users/kater/Рабочий стол/Programming in C/Лабораторные работы/lab2.c",
+  "output": "C:/Users/kater/Рабочий стол/Programming in C/cmake-build-debug/CMakeFiles/lab2.dir/Лабораторные_работы/lab2.c.obj"
+},
+{
+  "directory": "C:/Users/kater/Рабочий стол/Programming in C/cmake-build-debug",
+  "command": "\"C:\\PROGRA~1\\JetBrains\\CLion 2025.3.3\\bin\\mingw\\bin\\gcc.exe\" -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\lab3.dir\\Лабораторные_работы\\lab3.c.obj -c \"C:\\Users\\kater\\Рабочий стол\\Programming in C\\Лабораторные работы\\lab3.c\"",
+  "file": "C:/Users/kater/Рабочий стол/Programming in C/Лабораторные работы/lab3.c",
+  "output": "C:/Users/kater/Рабочий стол/Programming in C/cmake-build-debug/CMakeFiles/lab3.dir/Лабораторные_работы/lab3.c.obj"
+},
+{
+  "directory": "C:/Users/kater/Рабочий стол/Programming in C/cmake-build-debug",
+  "command": "\"C:\\PROGRA~1\\JetBrains\\CLion 2025.3.3\\bin\\mingw\\bin\\gcc.exe\" -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\lab4.dir\\Лабораторные_работы\\lab4\\main.c.obj -c \"C:\\Users\\kater\\Рабочий стол\\Programming in C\\Лабораторные работы\\lab4\\main.c\"",
+  "file": "C:/Users/kater/Рабочий стол/Programming in C/Лабораторные работы/lab4/main.c",
+  "output": "C:/Users/kater/Рабочий стол/Programming in C/cmake-build-debug/CMakeFiles/lab4.dir/Лабораторные_работы/lab4/main.c.obj"
+},
+{
+  "directory": "C:/Users/kater/Рабочий стол/Programming in C/cmake-build-debug",
+  "command": "\"C:\\PROGRA~1\\JetBrains\\CLion 2025.3.3\\bin\\mingw\\bin\\gcc.exe\" -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\lab4.dir\\Лабораторные_работы\\lab4\\triangle.c.obj -c \"C:\\Users\\kater\\Рабочий стол\\Programming in C\\Лабораторные работы\\lab4\\triangle.c\"",
+  "file": "C:/Users/kater/Рабочий стол/Programming in C/Лабораторные работы/lab4/triangle.c",
+  "output": "C:/Users/kater/Рабочий стол/Programming in C/cmake-build-debug/CMakeFiles/lab4.dir/Лабораторные_работы/lab4/triangle.c.obj"
+}
+]
