@@ -25,3 +25,15 @@ add_executable(lab5
         "Лабораторные работы/lab5/main.c"
         "Лабораторные работы/lab5/matrix.c"
 )
+
+# Лаба 6
+add_executable(lab6
+        "Лабораторные работы/lab6/main.c"
+        "Лабораторные работы/lab6/input.txt"
+)
+
+# Лаба 8
+add_executable(lab8
+        "Лабораторные работы/lab8/lab8.c"
+        "Лабораторные работы/lab8/input.txt"
+)
