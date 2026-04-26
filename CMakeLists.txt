@@ -37,3 +37,10 @@ add_executable(lab8
         "Лабораторные работы/lab8/lab8.c"
         "Лабораторные работы/lab8/input.txt"
 )
+
+# Лаба 11
+add_executable(lab11
+        "Лабораторные работы/lab11/lab11.c"
+        "Лабораторные работы/lab11/functions.c"
+        "Лабораторные работы/lab11/functions.h"
+)
