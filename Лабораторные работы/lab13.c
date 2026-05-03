@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <signal.h>
 #include <conio.h>
-#include <windows.h>
 
 void SignalHandler(int sig)
 {
@@ -56,9 +55,6 @@ void ShowMenu()
 
 int main()
 {
-    SetConsoleOutputCP(CP_UTF8);
-    SetConsoleCP(CP_UTF8);
-
     int choice;
 
     signal(SIGABRT, SignalHandler);

@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include <windows.h>
 
 #define MAX_ARRAY(arr, count) ({                 \
 double maxValue = (arr)[0];                  \
@@ -14,8 +13,6 @@ maxValue;                                    \
 })
 
 int main() {
-    SetConsoleOutputCP(CP_UTF8);
-    SetConsoleCP(CP_UTF8);
 
     char str[200];
     double numbers[100];

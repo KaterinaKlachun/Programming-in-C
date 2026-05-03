@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <conio.h>
-#include <windows.h>
 
 int countBitsLong(long x)
 {
@@ -40,9 +39,6 @@ int countBitsDouble(double x)
 
 int main()
 {
-    SetConsoleOutputCP(CP_UTF8);
-    SetConsoleCP(CP_UTF8);
-
     long a;
     double b;
 

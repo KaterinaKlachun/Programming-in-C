@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <windows.h>
 
 struct humen {
     char name[50];
@@ -8,8 +7,6 @@ struct humen {
 };
 
 int main() {
-    SetConsoleOutputCP(CP_UTF8);
-    SetConsoleCP(CP_UTF8);
 
     struct humen A[4];
     struct humen B[4];

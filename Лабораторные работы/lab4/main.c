@@ -1,11 +1,7 @@
 #include <stdio.h>
-#include <windows.h>
 #include "triangle.h"
 
 int main() {
-    SetConsoleOutputCP(CP_UTF8);
-    SetConsoleCP(CP_UTF8);
-
     double a;
     double b;
     double c;

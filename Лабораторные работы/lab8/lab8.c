@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <string.h>
-#include <windows.h>
 
 struct human {
     char name[50];
@@ -35,9 +34,6 @@ int compare(struct human a, struct human b, int f1, int f2) {
 }
 
 int main() {
-    SetConsoleOutputCP(CP_UTF8);
-    SetConsoleCP(CP_UTF8);
-
     FILE *f = fopen("input.txt", "r");
 
     struct human arr[100];

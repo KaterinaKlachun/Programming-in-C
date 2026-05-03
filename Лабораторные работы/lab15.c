@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <conio.h>
-#include <windows.h>
 
 void PrintNormal(int n)
 {
@@ -28,9 +27,6 @@ void PrintReverse(int n)
 
 int main()
 {
-    SetConsoleOutputCP(CP_UTF8);
-    SetConsoleCP(CP_UTF8);
-
     int n;
 
     printf("Введите натуральное число N: ");

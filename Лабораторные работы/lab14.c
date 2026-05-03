@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <setjmp.h>
 #include <conio.h>
-#include <windows.h>
 
 jmp_buf jumpBuffer;
 
@@ -24,9 +23,6 @@ void FibonacciSum(int index, int a, int b)
 
 int main()
 {
-    SetConsoleOutputCP(CP_UTF8);
-    SetConsoleCP(CP_UTF8);
-
     printf("Введите количество чисел Фибоначчи: ");
     scanf("%d", &n);
 

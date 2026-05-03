@@ -1,10 +1,7 @@
 #include <stdio.h>   // printf, scanf
 #include <math.h>    // pow, sqrt
-#include <windows.h>
 
 int main() {
-    SetConsoleOutputCP(CP_UTF8);
-    SetConsoleCP(CP_UTF8);
 
     // 1. Объявляем переменные
     double a, b, c;

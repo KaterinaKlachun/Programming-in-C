@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <string.h>
 #include <time.h>
-#include <windows.h>
 
 int isLeapYear(int year) {
     return (year % 4 == 0 && year % 100 != 0) || (year % 400 == 0);
@@ -116,8 +115,6 @@ int countDots(char str[]) {
 }
 
 int main() {
-    SetConsoleOutputCP(CP_UTF8);
-    SetConsoleCP(CP_UTF8);
 
     char input[50];
     int year, month, day;
