@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <conio.h>
 
 int countBitsLong(long x)
 {
@@ -47,6 +46,5 @@ int main()
     printf("Единичных битов в long: %d\n", countBitsLong(a));
     printf("Единичных битов в double: %d\n", countBitsDouble(b));
 
-    getch();
     return 0;
 }

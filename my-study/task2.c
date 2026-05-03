@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <conio.h>
 
 void printNormal(int n)
 {
@@ -35,7 +34,6 @@ int main()
     if (n <= 0)
     {
         printf("Ошибка: число должно быть натуральным.\n");
-        getch();
         return 0;
     }
 
@@ -45,6 +43,5 @@ int main()
     printf("\nОбратный порядок:\n");
     printReverse(n);
 
-    getch();
     return 0;
 }
